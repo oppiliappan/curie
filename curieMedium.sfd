@@ -42,9 +42,9 @@ NameList: AGL For New Fonts
 DisplaySize: 12
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 47 12
+WinInfo: 8366 47 12
 OnlyBitmaps: 1
-BeginChars: 65536 420
+BeginChars: 65536 428
 
 StartChar: space
 Encoding: 32 32 0
@@ -3405,8 +3405,72 @@ VWidth: 0
 Flags: W
 LayerCount: 2
 EndChar
+
+StartChar: uni21B0
+Encoding: 8624 8624 420
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: uni21B1
+Encoding: 8625 8625 421
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: uni21B2
+Encoding: 8626 8626 422
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: uni21B3
+Encoding: 8627 8627 423
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: uni21B4
+Encoding: 8628 8628 424
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: carriagereturn
+Encoding: 8629 8629 425
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: uni21B6
+Encoding: 8630 8630 426
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: uni21B7
+Encoding: 8631 8631 427
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
 EndChars
-BitmapFont: 12 421 10 2 1 nerdypepper
+BitmapFont: 12 428 10 2 1 nerdypepper
 BDFStartProperties: 30
 FONT 1 "-nerdypepper-curie-Medium-R-Normal--12-120-72-72-C-60-ISO10646-1"
 SIZE 0 "12 72 72"
@@ -3628,16 +3692,16 @@ BDFChar: 92 124 6 2 2 0 7
 J:N0#J:N0#
 BDFChar: 93 125 6 0 4 -2 8
 ^`XaB+;c4D+<\H"
-BDFChar: 94 126 6 0 4 2 4
-5c>4o
+BDFChar: 94 126 6 0 4 2 5
+5cCUm
 BDFChar: 95 160 6 5 5 -2 -2
 z
 BDFChar: 96 161 6 2 2 0 7
 J:IWMJ:N0#
 BDFChar: 97 162 6 0 4 -1 6
 +E49PTVufP
-BDFChar: 98 163 6 0 4 0 7
-0M"Iu5X7m8
+BDFChar: 98 163 6 0 4 0 8
+0M"Iu5X7SJ=9&=$
 BDFChar: 99 164 6 0 5 1 6
 KQp$YG_?%s
 BDFChar: 100 165 6 0 4 0 7
@@ -3664,8 +3728,8 @@ BDFChar: 110 175 6 1 3 9 9
 huE`W
 BDFChar: 111 176 6 1 3 6 8
 5bL@B
-BDFChar: 112 177 6 0 4 0 6
-+<^G%+9;0:
+BDFChar: 112 177 6 0 4 0 5
++<^G%+SYp:
 BDFChar: 113 178 6 1 4 4 8
 @#uKrn,NFg
 BDFChar: 114 179 6 1 4 4 8
@@ -4225,7 +4289,7 @@ BDFChar: 390 9834 12 0 4 0 8
 BDFChar: 391 9835 12 0 5 0 8
 0K:U/,in#+)uos=
 BDFChar: 392 9836 12 0 5 0 7
-Hpi?M6q#hc
+Hpi?M6q#8C
 BDFChar: 393 9898 12 1 5 1 5
 E/9=+Du]k<
 BDFChar: 394 9899 12 1 5 1 5
@@ -4280,5 +4344,21 @@ BDFChar: 418 57541 12 0 5 1 5
 "S_ul"98E%
 BDFChar: 419 57542 12 0 5 1 5
 '^-+l'EA+5
+BDFChar: 420 8624 12 0 4 0 8
++@,]m-jU(a#QOi)
+BDFChar: 421 8625 12 0 4 0 8
++;"=0TR_QCJ,fQL
+BDFChar: 422 8626 12 0 4 0 8
+#RC\A-qO+u+92BA
+BDFChar: 423 8627 12 0 4 0 8
+J:N0#TTJp[+92BA
+BDFChar: 424 8628 12 0 4 0 7
+i#j-b+K06%
+BDFChar: 425 8629 12 0 4 0 8
+#RC\A-qO+u+92BA
+BDFChar: 426 8630 12 0 5 1 5
+3(-0m5QCca
+BDFChar: 427 8631 12 0 5 1 5
+E/9;i#QOi)
 EndBitmapFont
 EndSplineFont
