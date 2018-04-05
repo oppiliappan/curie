@@ -42,9 +42,9 @@ NameList: AGL For New Fonts
 DisplaySize: 12
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 8366 47 12
+WinInfo: 38 38 14
 OnlyBitmaps: 1
-BeginChars: 65536 428
+BeginChars: 65536 434
 
 StartChar: space
 Encoding: 32 32 0
@@ -3469,8 +3469,55 @@ VWidth: 0
 Flags: W
 LayerCount: 2
 EndChar
+
+StartChar: uni276D
+Encoding: 10093 10093 428
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: uni276C
+Encoding: 10092 10092 429
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: uni2226
+Encoding: 8742 8742 430
+Width: 1000
+VWidth: 0
+LayerCount: 2
+EndChar
+
+StartChar: logicaland
+Encoding: 8743 8743 431
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: logicalor
+Encoding: 8744 8744 432
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: Delta
+Encoding: 8710 8710 433
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
 EndChars
-BitmapFont: 12 428 10 2 1 nerdypepper
+BitmapFont: 12 435 10 2 1 nerdypepper
 BDFStartProperties: 30
 FONT 1 "-nerdypepper-curie-Medium-R-Normal--12-120-72-72-C-60-ISO10646-1"
 SIZE 0 "12 72 72"
@@ -3512,8 +3559,8 @@ BDFChar: 2 34 6 1 3 6 8
 TV.qX
 BDFChar: 3 35 6 0 4 0 7
 :f-p`;#!j`
-BDFChar: 4 36 6 0 4 -1 7
-+F'QPE%!.(+92BA
+BDFChar: 4 36 6 0 4 -2 8
++<YoZJ8bc"n/rhR
 BDFChar: 5 37 6 0 5 0 7
 aN+o(+<X?O
 BDFChar: 6 38 6 0 4 0 7
@@ -3536,26 +3583,26 @@ BDFChar: 14 46 6 2 2 0 1
 J:IV"
 BDFChar: 15 47 6 1 4 0 7
 &.fs,5X9jM
-BDFChar: 16 48 6 0 4 0 8
-E/9=;W5sdNDu]k<
-BDFChar: 17 49 6 0 4 0 8
-+CLib+<VdLp](9o
-BDFChar: 18 50 6 0 4 0 8
-E/4c2+@(I-p](9o
-BDFChar: 19 51 6 0 4 0 8
-E/4c2BF"m"Du]k<
-BDFChar: 20 52 6 0 4 0 8
-J:N0CTV2'&+92BA
-BDFChar: 21 53 6 0 4 0 8
-pjdna#RC]lDu]k<
-BDFChar: 22 54 6 0 4 0 8
-E/9$pn;)mVDu]k<
-BDFChar: 23 55 6 0 4 0 8
-p]q-:&0N)\5QCca
-BDFChar: 24 56 6 0 4 0 8
-E/9=+E/9=+Du]k<
-BDFChar: 25 57 6 0 4 0 8
-E/9=+GR+S2Du]k<
+BDFChar: 16 48 6 0 4 0 7
+E/9m[aG>Xk
+BDFChar: 17 49 6 0 4 0 7
++CLib+<Vg%
+BDFChar: 18 50 6 0 4 0 7
+E/4c2+@(JP
+BDFChar: 19 51 6 0 4 0 7
+E/4d=#RH6*
+BDFChar: 20 52 6 0 4 0 7
+&26qBOSB@u
+BDFChar: 21 53 6 0 4 0 7
+pjdna#RH6*
+BDFChar: 22 54 6 0 4 0 7
+E/9&6Lkpk+
+BDFChar: 23 55 6 0 4 0 7
+p]qEB+<Wp7
+BDFChar: 24 56 6 0 4 0 7
+E/9<hLkpk+
+BDFChar: 25 57 6 0 4 0 7
+E/9=+GR0+E
 BDFChar: 26 58 6 2 2 0 5
 J:IV"J:IV"
 BDFChar: 27 59 6 1 2 -1 5
@@ -3595,7 +3642,7 @@ OH?-NTTG7s
 BDFChar: 44 76 6 1 4 0 7
 J:N0#J:N1>
 BDFChar: 45 77 6 0 4 0 7
-LtML$LkpkC
+n>N:aW/-7c
 BDFChar: 46 78 6 1 4 0 7
 OH@i9Ycs4N
 BDFChar: 47 79 6 1 4 0 7
@@ -3615,7 +3662,7 @@ OH>QcOH>Q3
 BDFChar: 54 86 6 1 4 0 7
 OH>QcOH<jX
 BDFChar: 55 87 6 0 4 0 7
-LkpkCW;,#$
+LkpkcW2QZa
 BDFChar: 56 88 6 1 4 0 7
 OH>Q3OH>Qc
 BDFChar: 57 89 6 1 4 0 7
@@ -3632,8 +3679,8 @@ BDFChar: 62 94 6 0 4 6 8
 +Adjo
 BDFChar: 63 95 6 1 4 -1 -1
 n,NFg
-BDFChar: 64 96 6 1 2 8 9
-J3X)7
+BDFChar: 64 96 6 1 3 7 9
+J3Y4W
 BDFChar: 65 97 6 1 4 0 5
 E0-0CODk1"
 BDFChar: 66 98 6 1 4 0 8
@@ -3654,10 +3701,10 @@ BDFChar: 73 105 6 1 4 0 8
 5X5=b5X7S"0E;(Q
 BDFChar: 74 106 6 1 3 -2 8
 +<UYl+<VdL+J:t"
-BDFChar: 75 107 6 1 4 0 7
-J:N`S^qcV)
-BDFChar: 76 108 6 0 4 0 8
-i#j-b+<VdL(]XO9
+BDFChar: 75 107 6 1 4 0 8
+J:N0#OJ'C^O8o7\
+BDFChar: 76 108 6 1 4 0 8
+^d(.M5X7S"0E;(Q
 BDFChar: 77 109 6 0 4 0 5
 n>N:aW2K[r
 BDFChar: 78 110 6 1 4 0 5
@@ -3679,7 +3726,7 @@ OH>QcODk1"
 BDFChar: 86 118 6 1 4 0 5
 OH>Qc?sis7
 BDFChar: 87 119 6 0 4 0 5
-Lkr".fSBM-
+Lkr".W:0ce
 BDFChar: 88 120 6 1 4 0 5
 OH<k3OH9GB
 BDFChar: 89 121 6 1 4 -2 5
@@ -3688,8 +3735,8 @@ BDFChar: 90 122 6 1 4 0 5
 n.6^-JFEO=
 BDFChar: 91 123 6 1 5 -2 8
 (a'qD+M]*B+<VL$
-BDFChar: 92 124 6 2 2 0 7
-J:N0#J:N0#
+BDFChar: 92 124 6 2 2 -1 8
+J:N0#J:N0#J:IV"
 BDFChar: 93 125 6 0 4 -2 8
 ^`XaB+;c4D+<\H"
 BDFChar: 94 126 6 0 4 2 5
@@ -3946,8 +3993,8 @@ BDFChar: 219 732 6 1 4 8 9
 :nRdg
 BDFChar: 220 923 12 0 4 0 5
 +<XKWLkl$2
-BDFChar: 221 926 12 0 4 0 6
-pkSqF!/UCM
+BDFChar: 221 926 12 0 4 0 8
+pkSnMp](;Mp](9o
 BDFChar: 222 930 12 1 4 0 6
 n;omX5`kI8
 BDFChar: 223 931 12 0 4 0 8
@@ -4048,8 +4095,8 @@ BDFChar: 270 8727 12 1 5 1 5
 :a#NU:]LIq
 BDFChar: 271 8728 12 1 4 2 5
 @$$IX
-BDFChar: 272 8729 12 2 3 3 4
-^q]pM
+BDFChar: 272 8729 12 1 4 2 5
+@.<Yn
 BDFChar: 273 8730 12 0 4 0 7
 #RCtQ+J:tb
 BDFChar: 274 8756 12 0 4 0 5
@@ -4324,8 +4371,8 @@ BDFChar: 408 57503 12 0 5 3 3
 qu?]s
 BDFChar: 409 57504 12 1 5 -1 8
 OLUC6OJ'C>J:IV"
-BDFChar: 410 57505 12 1 5 0 9
-J:N0#i(.N`84W^\
+BDFChar: 410 57505 12 1 5 1 9
+J:N1>!(^d*8,rVi
 BDFChar: 411 57506 12 1 4 1 8
 @$$K>nBfPO
 BDFChar: 412 57520 12 0 5 -2 9
@@ -4360,5 +4407,17 @@ BDFChar: 426 8630 12 0 5 1 5
 3(-0m5QCca
 BDFChar: 427 8631 12 0 5 1 5
 E/9;i#QOi)
+BDFChar: 428 10093 12 0 5 0 8
+^gJi5$lC[+^]4?7
+BDFChar: 429 10092 12 0 5 0 8
+$lC[+^gJi5$ig8-
+BDFChar: 430 8742 12 0 0 0 0
+z
+BDFChar: 431 8743 12 0 4 0 5
++<XKWLkl$2
+BDFChar: 432 8744 12 0 4 0 5
+Lknl(+<UXa
+BDFChar: 433 8710 12 0 4 0 6
++<XKWLktg+
 EndBitmapFont
 EndSplineFont
