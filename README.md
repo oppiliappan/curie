@@ -34,4 +34,4 @@ ln -fs ~/curie/italic/curieItalic-12.bdf ~/.local/share/fonts/curieItalic-12.bdf
 
 ### Arch Linux
 
-Curie is available in the AUR as [bdf-curie]: aur.archlinux.org/packages/bdf-curie
+Curie is available in the AUR as [bdf-curie](aur.archlinux.org/packages/bdf-curie)
