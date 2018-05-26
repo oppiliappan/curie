@@ -14,6 +14,13 @@ A slightly upscaled version of scientifica.
 
 ### Linux
 
+Enable bitmap fonts
+```shell
+cd /etc/fonts/conf.d/
+sudo rm /etc/fonts/conf.d/10* && sudo rm -rf 70-no-bitmaps.conf && sudo ln -s ../conf.avail/70-yes-bitmaps.conf
+sudo dpkg-reconfigure fontconfig
+```
+
 Download Curie
 ```shell
  cd ~
@@ -25,3 +32,7 @@ ln -fs ~/curie/regular/curieMedium-12.bdf ~/.local/share/fonts/curieMedium-12.bd
 ln -fs ~/curie/bold/curieBold-12.bdf ~/.local/share/fonts/curieBold-12.bdf
 ln -fs ~/curie/italic/curieItalic-12.bdf ~/.local/share/fonts/curieItalic-12.bdf
 ```
+
+### Arch Linux
+
+Curie is available in the AUR as [bdf-curie]: aur.archlinux.org/packages/bdf-curie
