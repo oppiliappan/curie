@@ -3538,7 +3538,7 @@ VWidth: 0
 LayerCount: 2
 EndChar
 EndChars
-BitmapFont: 12 434 10 2 1 nerdypepper
+BitmapFont: 12 436 10 2 1 nerdypepper
 BDFStartProperties: 30
 FONT 1 "-nerdypepper-curie-Bold-R-Normal--12-120-72-72-C-60-ISO10646-1"
 SIZE 0 "12 72 72"
