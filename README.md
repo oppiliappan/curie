@@ -15,7 +15,7 @@ A slightly upscaled version of [scientifica](https://github.com/nerdypepper/scie
 
 Enable bitmap fonts
 ```shell
-sudo cd /etc/fonts/conf.d/
+cd /etc/fonts/conf.d/
 sudo rm /etc/fonts/conf.d/10* && sudo rm -rf ./70-no-bitmaps.conf && sudo ln -s ../conf.avail/70-yes-bitmaps.conf
 sudo dpkg-reconfigure fontconfig
 ```
