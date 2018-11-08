@@ -55,7 +55,7 @@ WinInfo: 0 60 17
 OnlyBitmaps: 1
 BeginPrivate: 0
 EndPrivate
-BeginChars: 65536 443
+BeginChars: 65536 445
 
 StartChar: space
 Encoding: 32 32 0
@@ -3557,6 +3557,7 @@ StartChar: lslash
 Encoding: 322 322 437
 Width: 1000
 VWidth: 0
+Flags: W
 LayerCount: 2
 EndChar
 
@@ -3564,6 +3565,7 @@ StartChar: Zdotaccent
 Encoding: 379 379 438
 Width: 1000
 VWidth: 0
+Flags: W
 LayerCount: 2
 EndChar
 
@@ -3598,8 +3600,24 @@ VWidth: 0
 Flags: W
 LayerCount: 2
 EndChar
+
+StartChar: sacute
+Encoding: 347 347 443
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: Sacute
+Encoding: 346 346 444
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
 EndChars
-BitmapFont: 12 443 10 2 1 nerdypepper
+BitmapFont: 12 445 10 2 1 nerdypepper
 BDFStartProperties: 30
 FONT 1 "-nerdypepper-curie-Medium-R-Normal--12-120-72-72-C-60-ISO10646-1"
 SIZE 0 "12 72 72"
@@ -4502,7 +4520,7 @@ BDFChar: 432 57542 12 0 5 1 5
 BDFChar: 433 380 12 1 4 0 7
 +9:mB+@(JH
 BDFChar: 434 281 12 1 4 -2 5
-@$'l.OC1<r
+@$'l.OC1=]
 BDFChar: 435 378 12 1 4 0 8
 +@#qr&0O5gn,NFg
 BDFChar: 436 324 12 1 4 0 8
@@ -4514,10 +4532,14 @@ BDFChar: 438 379 12 1 4 0 9
 BDFChar: 439 323 12 1 4 0 9
 +@)$Md*T#$OH9GB
 BDFChar: 440 280 12 1 4 -2 7
-n:6&IJ:N1>5Tg%,
+n:6&IJ:N1>5[XQl
 BDFChar: 441 377 12 1 4 0 9
 +@,E-&0O5gJFEO=
 BDFChar: 442 321 12 0 4 0 7
 5X7SB^d(/0
+BDFChar: 443 347 12 1 4 0 8
++@#pGJ7&p"huE`W
+BDFChar: 444 346 12 1 4 0 9
++@'=rJ7&p"OC/%g
 EndBitmapFont
 EndSplineFont
