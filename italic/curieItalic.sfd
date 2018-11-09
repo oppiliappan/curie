@@ -1,8 +1,8 @@
 SplineFontDB: 3.0
-FontName: curieBold
-FullName: curie Bold
+FontName: curieItalic
+FullName: curie Italic
 FamilyName: curie
-Weight: Bold
+Weight: Italic
 Copyright: Copyright (C) 2018 nerdypepper
 UComments: "2018-4-5: Created with FontForge (http://fontforge.org)"
 Version: 001.000
@@ -21,9 +21,9 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1522941122
-ModificationTime: 1522964843
+ModificationTime: 1541791369
 PfmFamily: 17
-TTFWeight: 700
+TTFWeight: 400
 TTFWidth: 5
 LineGap: 90
 VLineGap: 0
@@ -43,6 +43,7 @@ HheadDOffset: 1
 OS2Vendor: 'PfEd'
 OS2CodePages: ffffffff.ffffffff
 OS2UnicodeRanges: ffffffff.ffffffff.ffffffff.ffffffff
+MacStyle: 2
 MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033
@@ -53,7 +54,7 @@ NameList: AGL For New Fonts
 DisplaySize: 12
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 38 12
+WinInfo: 0 50 21
 OnlyBitmaps: 1
 BeginPrivate: 0
 EndPrivate
