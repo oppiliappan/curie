@@ -51,11 +51,11 @@ NameList: AGL For New Fonts
 DisplaySize: 12
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 38 38 12
+WinInfo: 0 60 17
 OnlyBitmaps: 1
 BeginPrivate: 0
 EndPrivate
-BeginChars: 65536 433
+BeginChars: 65536 445
 
 StartChar: space
 Encoding: 32 32 0
@@ -3520,8 +3520,104 @@ VWidth: 0
 Flags: W
 LayerCount: 2
 EndChar
+
+StartChar: zdotaccent
+Encoding: 380 380 433
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: eogonek
+Encoding: 281 281 434
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: zacute
+Encoding: 378 378 435
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: nacute
+Encoding: 324 324 436
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: lslash
+Encoding: 322 322 437
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: Zdotaccent
+Encoding: 379 379 438
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: Nacute
+Encoding: 323 323 439
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: Eogonek
+Encoding: 280 280 440
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: Zacute
+Encoding: 377 377 441
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: Lslash
+Encoding: 321 321 442
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: sacute
+Encoding: 347 347 443
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: Sacute
+Encoding: 346 346 444
+Width: 1000
+VWidth: 0
+Flags: W
+LayerCount: 2
+EndChar
 EndChars
-BitmapFont: 12 434 10 2 1 nerdypepper
+BitmapFont: 12 445 10 2 1 nerdypepper
 BDFStartProperties: 30
 FONT 1 "-nerdypepper-curie-Medium-R-Normal--12-120-72-72-C-60-ISO10646-1"
 SIZE 0 "12 72 72"
@@ -4421,5 +4517,29 @@ BDFChar: 431 57541 12 0 5 1 5
 "S_ul"98E%
 BDFChar: 432 57542 12 0 5 1 5
 '^-+l'EA+5
+BDFChar: 433 380 12 1 4 0 7
++9:mB+@(JH
+BDFChar: 434 281 12 1 4 -2 5
+@$'l.OC1=]
+BDFChar: 435 378 12 1 4 0 8
++@#qr&0O5gn,NFg
+BDFChar: 436 324 12 1 4 0 8
++@#qbOH>QcO8o7\
+BDFChar: 437 322 12 1 4 0 8
+^d(.m^d(.M0E;(Q
+BDFChar: 438 379 12 1 4 0 9
++9:mB&0O5gJFEO=
+BDFChar: 439 323 12 1 4 0 9
++@)$Md*T#$OH9GB
+BDFChar: 440 280 12 1 4 -2 7
+n:6&IJ:N1>5[XQl
+BDFChar: 441 377 12 1 4 0 9
++@,E-&0O5gJFEO=
+BDFChar: 442 321 12 0 4 0 7
+5X7SB^d(/0
+BDFChar: 443 347 12 1 4 0 8
++@#pGJ7&p"huE`W
+BDFChar: 444 346 12 1 4 0 9
++@'=rJ7&p"OC/%g
 EndBitmapFont
 EndSplineFont
