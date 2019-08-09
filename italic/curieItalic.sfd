@@ -4,7 +4,7 @@ FullName: curie Italic
 FamilyName: curie
 Weight: Italic
 Copyright: Copyright (C) 2018 nerdypepper
-UComments: "2018-4-5: Created with FontForge (http://fontforge.org)"
+UComments: "2019-8-9: Created with FontForge (http://fontforge.org)"
 Version: 001.000
 ItalicAngle: 0
 UnderlinePosition: -100
@@ -15,15 +15,15 @@ InvalidEm: 0
 LayerCount: 2
 Layer: 0 0 "Back" 1
 Layer: 1 0 "Fore" 0
-XUID: [1021 527 -758485900 14296998]
+XUID: [1021 35 204402752 7810979]
 FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
-CreationTime: 1522941122
-ModificationTime: 1541791369
+CreationTime: 1565355844
+ModificationTime: 1565355919
 PfmFamily: 17
-TTFWeight: 400
+TTFWeight: 700
 TTFWidth: 5
 LineGap: 90
 VLineGap: 0
@@ -41,25 +41,21 @@ HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
 OS2Vendor: 'PfEd'
-OS2CodePages: ffffffff.ffffffff
-OS2UnicodeRanges: ffffffff.ffffffff.ffffffff.ffffffff
-MacStyle: 2
 MarkAttachClasses: 1
 DEI: 91125
 LangName: 1033
 Encoding: UnicodeBmp
-Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: 12
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 50 21
+WinInfo: 0 43 20
 OnlyBitmaps: 1
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 524288 262144 174762 0 1048576 174762 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65536 435
+BeginChars: 65536 433
 
 StartChar: space
 Encoding: 32 32 0
@@ -3524,22 +3520,8 @@ VWidth: 0
 Flags: W
 LayerCount: 2
 EndChar
-
-StartChar: uni0099
-Encoding: 153 153 433
-Width: 1000
-VWidth: 0
-LayerCount: 2
-EndChar
-
-StartChar: Emacron
-Encoding: 274 274 434
-Width: 1000
-VWidth: 0
-LayerCount: 2
-EndChar
 EndChars
-BitmapFont: 12 436 10 2 1 nerdypepper
+BitmapFont: 12 433 10 2 1 nerdypepper
 BDFStartProperties: 30
 FONT 1 "-nerdypepper-curie-Bold-R-Normal--12-120-72-72-C-60-ISO10646-1"
 SIZE 0 "12 72 72"
@@ -4439,9 +4421,5 @@ BDFChar: 431 57541 12 0 5 1 5
 "S_ul"98E%
 BDFChar: 432 57542 12 0 5 1 5
 '^-+l'EA+5
-BDFChar: 433 153 12 0 0 0 0
-z
-BDFChar: 434 274 12 0 0 0 0
-z
 EndBitmapFont
 EndSplineFont
